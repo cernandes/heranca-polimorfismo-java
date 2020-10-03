@@ -19,22 +19,22 @@ implementar o programa conforme o diagrama de classes.
 
 Enter the number of products: <span style="color: red">3</span>
 
-Product #<span style="color: blue">1</span> data:
-Common, used or imported (c/u/i)? <span style="color: red">i</span>
-Name: <span style="color: red">Tablet</span>
-Price: <span style="color: red">260.00</span>
-Customs fee: <span style="color: red">20</span>
+Product #<span style="color: blue">1</span> data:<br>
+Common, used or imported (c/u/i)? <span style="color: red">i</span><br>
+Name: <span style="color: red">Tablet</span><br>
+Price: <span style="color: red">260.00</span><br>
+Customs fee: <span style="color: red">20</span><br>
 
-Product #<span style="color: blue">2</span> data:
-Common, used or imported (c/u/i)? <span style="color: red">c</span>
-Name: <span style="color: red">Notebook</span>
-Price: <span style="color: red">1100.00</span>
+Product #<span style="color: blue">2</span> data:<br>
+Common, used or imported (c/u/i)? <span style="color: red">c</span><br>
+Name: <span style="color: red">Notebook</span><br>
+Price: <span style="color: red">1100.00</span><br>
 
-Product #<span style="color: blue">3</span> data:
-Common, used or imported (c/u/i)? <span style="color: red">u</span>
-Name: <span style="color: red">Iphone</span>
-Price: <span style="color: red">400.00</span>
-Manufacture date (DD/MM/YYYY): <span style="color: red">15/03/2017</span>
+Product #<span style="color: blue">3</span> data:<br>
+Common, used or imported (c/u/i)? <span style="color: red">u</span><br>
+Name: <span style="color: red">Iphone</span><br>
+Price: <span style="color: red">400.00</span><br>
+Manufacture date (DD/MM/YYYY): <span style="color: red">15/03/2017</span><br>
 
 ### Saída de dados
 PRICE TAGS:
