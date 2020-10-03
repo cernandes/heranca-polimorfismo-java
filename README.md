@@ -12,7 +12,7 @@ implementar o programa conforme o diagrama de classes.
 
 ### Diagrama de classes
 <p align="center">
-  <img src="./assets/img/08-heranca-e-polimorfismo.jpg" width="350" title="hover text" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/cernandes/heranca-polimorfismo-java/master/assets/img/class-diagram.jpg" width="350" title="hover text" alt="accessibility text">
 </p>
 
 ### Entrada de dados
